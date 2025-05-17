@@ -1,0 +1,12 @@
+{
+  "name": "alien-numeral-converter",
+  "version": "1.0.0",
+  "description": "Convert alien numerals to integers (custom Roman-style logic)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["alien", "numeral", "converter"],
+  "author": "Mongkol Singthongda",
+  "license": "MIT"
+}
